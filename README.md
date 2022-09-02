@@ -1,3 +1,3 @@
 # Machine-Learning-Practice
 
-## Practice Repositories
+## Practice Repositorie
